@@ -70,7 +70,7 @@ const Left = () => {
               <AiFillTwitterCircle />
             </a>
             <a
-              href="mailto:nameispriyanka05@example.com"
+              href="mailto:itsxpriyanka80@example.com"
               className="hover:text-designColor duration-300 cursor-pointer text-xl"
             >
               <FiMail />

@@ -31,7 +31,7 @@ const Sidenav = () => {
       </ul>
       <SidenavTitle title="R" subTitle="each Me" />
       <ul>
-        <li className="sidenavLi">nameispriyanka05@gmail.com</li>
+        <li className="sidenavLi">itsxpriyanka80@gmail.com</li>
         
         <li className="sidenavLi">
           <a href="https://www.linkedin.com/in/priyanka-kumari02/" target="_blank" className="flex items-center gap-2">

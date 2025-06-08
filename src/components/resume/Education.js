@@ -11,7 +11,7 @@ const Education = () => {
       <div className="col-span-9 md:col-span-4">
         <ResumeTitle title="Experience" icon={<MdWork />} />
         <ResumeCard
-          badge="12/2024 – Present"
+          badge="12/2024 – 01/2025"
           title="Backend - Automations & Integrations Engineer"
           subTitle="Unifize"
           des="Automated workflows using Clojure, reducing manual effort by 40%. Integrated third-party apps like SAP & Salesforce, and optimized system efficiency."
